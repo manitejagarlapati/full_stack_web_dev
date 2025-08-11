@@ -7,6 +7,10 @@
 > 📌 **Learning by doing is the fastest way to grow as a developer.**  
 > This repository follows a **project-based learning** approach — each concept is tied to a real-world application so you can see how it works in practice.
 
+EACH FOLDER HAS ITS OWN README WHICH SPECIFIES LIST OF TECHNOLOGIES USED and TOPICS TO  BE COVERED :
+>This brings clarity and helps to track your progress.
+>Maintain a excel sheet to  track your daily progress.
+
 "  Follow the roadmap  folder and do the projects  "
 > Each project clarifies you the skill  your'e learning and that helps in real time implementation .
 > Following GFG is the standard and practical way to develop any skill.
